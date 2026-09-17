@@ -154,15 +154,15 @@ damage grades 1, 2, and 3.
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](model_comparison.png)
 
 ### Final Model Evaluation
 
-![Final Model Evaluation](images/final_model_evaluation.png)
+![Final Model Evaluation](final_model_evaluation.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
